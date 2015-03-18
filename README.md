@@ -1,0 +1,2 @@
+# Automod
+some automod example
